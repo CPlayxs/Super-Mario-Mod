@@ -1,3 +1,62 @@
 [
+     {
+    "name": "Mushroom Kingdom",
+		"leaderName": "Princess Peach",
+		"adjective": ["Toad"],
+		"outerColor": [255, 255, 255],
+		"innerColor": [209, 6, 33],
 
+		"uniqueName": "Mushroom Booster",
+		"uniques": ["Here we go!"],
+
+		"cities": ["Peach's Castle"]
+	},
+     {
+    "name": "Koopa Kingdom",
+		"leaderName": "Bowser",
+		"adjective": ["Koopa"],
+		"outerColor": [9, 140, 65],
+		"innerColor": [239, 172, 40],
+       
+		"uniqueName": "Sycothic Obsetion",
+		"uniques": ["I do not"],
+
+		"cities": ["Bowser's Fortress"]
+	},
+     {
+    "name": "Penguin Kingdom",
+		"leaderName": "King Penguin",
+		"adjective": ["Penguin"],
+		"outerColor": [222, 222, 230],
+		"innerColor": [69, 104, 197],
+
+		"uniqueName": "Icy Might",
+		"uniques": ["Do you yield?"],
+
+		"cities": ["Ice Fortress"]
+	},
+     {
+    "name": "Kong Kingdom",
+		"leaderName": "Donkey Kong",
+		"adjective": ["Kong"],
+		"outerColor": [242, 15, 3],
+		"innerColor": [242, 233, 5],
+
+		"uniqueName": "Bananas",
+		"uniques": ["Uh uh ah ah"],
+
+		"cities": ["Kong's Shack"]
+	},
+     {
+    "name": "Yoshi Family",
+		"leaderName": "Green Yoshi",
+		"adjective": ["Yoshi"],
+		"outerColor": [107, 181, 65],
+		"innerColor": [242, 242, 242],
+       
+		"uniqueName": "Eggs Hatching",
+		"uniques": ["Yum"],
+
+		"cities": ["Yoshi Island"]
+	},
 ]
