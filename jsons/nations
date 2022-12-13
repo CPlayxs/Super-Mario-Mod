@@ -1,0 +1,38 @@
+[
+	{
+		"name": "name",
+"leaderName": "leaderName",
+"adjective": ["adjective"],
+"outerColor": [0, 0, 0],
+"innerColor": [0, 0, 0],
+
+"startBias": ["startBias"],
+"preferredVictoryType": "preferredVictoryType",
+"favoredReligion": "favoredReligion",
+
+"startIntroPart1": "startIntroPart1",
+"startIntroPart2": "startIntroPart2",
+
+"introduction": "introduction",
+"declaringWar": "declaringWar",
+"attacked": "attacked",
+"afterPeace": "afterPeace",
+"defeated": "defeated",
+
+"neutralHello": "neutralHello",
+"hateHello": "hateHello",
+
+"tradeRequest": "tradeRequest",
+"neutralLetsHearIt": "neutralLetsHearIt",
+"hateLetsHearIt": ["hateLetsHearIt"],
+"neutralNo": ["neutralNo"],
+"neutralYes": ["neutralYes"],
+"hateNo": ["hateNo"],
+"hateYes": ["hateYes"],
+
+"uniqueName": "uniqueName",
+"uniques": ["uniques"],
+
+"cities": ["cities"]
+}
+]
